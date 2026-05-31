@@ -63,3 +63,7 @@ The Gradient-Boosted Trees model achieved superior fraud detection performance a
 * Feature engineering workflow
 * Model training and evaluation
 * Fraud detection analysis
+
+## Authors
+
+Hyeonjeong Yoon, Jiajia Li, Hyeonji Jo, Shuwen Zheng
